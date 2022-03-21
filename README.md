@@ -1,7 +1,7 @@
 # Kodluyoruz-Front-End
 
 [Kodluyoruz](https://www.kodluyoruz.org) Front-End 2.ödev.İçerisinde bir adet README dosyası,bir adet de index.html barındırıyor.
-![](/ekran.png)
+![](/img/ekran.png)
 # Installation
 
 Projeyi clonlamak için;
